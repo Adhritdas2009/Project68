@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#image{
+    border-radius: 2000px;
+}
+
+#email{
+    color: white;
+}
+
+#menu1{
+    float: right;
+    background-color: springgreen;
+    color: black;
+}
+
+#myNavbar{
+    color: black;
+    text-align: left;
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
